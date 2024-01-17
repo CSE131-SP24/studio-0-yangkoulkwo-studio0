@@ -3,6 +3,6 @@ package studio0;
 public class Message {
 
 	public static void main(String args[]) {
-		System.out.println("i almost threw");
+		System.out.println("when trouble comes");
 	}
 }
